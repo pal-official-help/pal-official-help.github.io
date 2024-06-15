@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DNYMJYYTDS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DNYMJYYTDS');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16601923831">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16601923831');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Cleaning Services</title>
+    <style>
+        body {
+            background-color: beige;
+            color: black;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div>
+                <span>1833-908-0885</span> | <span>180 NJ-23, Hazlet, NJ 07734, USA</span>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h1>Welcome to Our House Cleaning Services</h1>
+            <p>Are you tired of spending your weekends cleaning your house? Let us handle it for you!</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a professional house cleaning company dedicated to providing top-notch cleaning services to homeowners in Hazlet and surrounding areas. With years of experience and a team of skilled professionals, we strive to exceed our clients' expectations with every cleaning job we undertake.</p>
+            <p>Our mission is to make your life easier by taking care of all your cleaning needs, allowing you to spend more time doing the things you love.</p>
+            <p>At House Cleaning Services, we believe in the importance of integrity, reliability, and attention to detail. When you choose us, you can trust that your home will be treated with the utmost care and respect.</p>
+            <p>Contact us today to schedule your next cleaning appointment!</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <p>Our comprehensive range of services includes:</p>
+            <ul>
+                <li>Regular House Cleaning</li>
+                <li>Deep Cleaning</li>
+                <li>Move-in/Move-out Cleaning</li>
+                <li>Post-Construction Cleaning</li>
+                <li>Special Event Cleaning</li>
+                <li>And much more!</li>
+            </ul>
+            <p>No matter the size or condition of your home, we have the skills and expertise to leave it looking fresh, clean, and inviting.</p>
+        </div>
+    </section>
+
+    <section id="work-done">
+        <div class="container">
+            <h2>Our Previous Work</h2>
+            <p>Over the years, we have had the privilege of helping countless homeowners transform their living spaces into clean and comfortable environments. Our satisfied clients trust us to deliver exceptional results time and time again.</p>
+            <p>Check out some of our successful tasks:</p>
+            <ul>
+                <li>Restoring heavily soiled carpets to their original condition</li>
+                <li>Deep cleaning kitchens and bathrooms to remove stubborn stains and grime</li>
+                <li>Revitalizing hardwood floors to bring back their natural shine</li>
+                <li>And much more!</li>
+            </ul>
+            <p>When you choose House Cleaning Services, you can rest assured that your home is in good hands.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <ul>
+                <li><a href="#terms">Terms and Conditions</a></li>
+                <li><a href="#disclaimer">Disclaimer Policy</a></li>
+                <li><a href="#privacy">Privacy Policy</a></li>
+            </ul>
+            <p>&copy; 2024 House Cleaning Services. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
